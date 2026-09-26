@@ -3,3 +3,5 @@
 отчество: Юрьевна
 группа: К3160
 поток: 1.4
+email: KozlovvaAnastasiia@ya.ru
+
